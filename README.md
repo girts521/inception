@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by girts.*
+*This project has been created as part of the 42 curriculum by gikarcev.*
 
 ## Description
 **Inception** is a System Administration project designed to broaden knowledge of Docker and container orchestration. The objective is to set up a small infrastructure composed of different services running under specific rules within a virtual machine, using Docker Compose. The architecture includes an NGINX server (TLS only), a WordPress site with PHP-FPM, and a MariaDB database, each isolated within its own dedicated container built from Alpine or Debian base images.

@@ -1,5 +1,5 @@
 # Inception: Project Milestones
-*This project has been created as part of the 42 curriculum by [your_login].*
+*This project has been created as part of the 42 curriculum by gikarcev.*
 
 This document outlines the major milestones for completing the Inception project. It serves as a high-level roadmap to build a multi-container infrastructure using Docker Compose.
 
